@@ -6,7 +6,7 @@
 # we upgrade the docker-compose in the runners, we should delete this file.
 # Issue: https://github.com/airbytehq/airbyte/issues/7191
 
-version: "3.7"
+version: "2.2"
 
 services:
   init:
